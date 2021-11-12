@@ -1,0 +1,4 @@
+#+TITLE: README
+#+STARTUP: overview
+
+Code snippets and exercises from [[https://man7.org/tlpi/][The Linux Programming Interface]] written in Rust. All the projects use [[https://github.com/nix-rust/nix][nix]] to interface with libc.
