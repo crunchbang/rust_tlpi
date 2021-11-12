@@ -3,6 +3,6 @@
 
 Code snippets and exercises from [[https://man7.org/tlpi/][The Linux Programming Interface]] written in Rust. All the projects use [[https://github.com/nix-rust/nix][nix]] to interface with libc.
 
-** TODO (/)
-*** [ ] Add better documentation
-*** [ ] Return code from main should reflect Linux error code (in case of error)
+**** Things that could be better
+***** [ ] Add better documentation
+***** [ ] Return code from main should reflect Linux error code (in case of error)
